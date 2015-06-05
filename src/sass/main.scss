@@ -1,0 +1,12 @@
+// FRAMEWORK SETTINGS AND RESOURCE INCLUSIONS
+@import "foundation/settings.scss"; // Foundation Default Settings
+@import "appsettings.scss"; // Foundation Override Settings
+
+// ALL OUR SWEET, SWEET VARIABLES
+@import "globals.scss";
+
+// LAYOUT STRUCTURE
+@import "layout.scss";
+
+// OUR MODULES... THE LIFEBLOOD OF OUR APP!
+@import "modules/**/*";

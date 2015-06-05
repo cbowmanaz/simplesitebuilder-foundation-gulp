@@ -1,0 +1,22 @@
+{
+  "name": "foundation-gulp",
+  "version": "0.0.0",
+  "authors": [
+    "Curtis Bowman <curtis@cbowman.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor/packages",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "~5.5.2"
+  },
+  "dependencies": {
+    "normalize.css": "~3.0.3"
+  }
+}
